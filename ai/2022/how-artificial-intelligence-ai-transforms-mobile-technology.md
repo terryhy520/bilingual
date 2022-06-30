@@ -1,6 +1,6 @@
 原文地址：[How Artificial Intelligence (AI) Transforms Mobile Technology?](https://medium.com/ai-in-plain-english/how-artificial-intelligence-ai-transforms-mobile-technology-24a7fa1cead7)  
 原文作者：A Smith   
-本文永久链接：https://github.com/terryhy520/bilingual/blob/master/ai/2022/how-ai-transforms-mobile-technology.md  
+本文永久链接：[https://github.com/terryhy520/bilingual/blob/master/ai/2022/how-artificial-intelligence-ai-transforms-mobile-technology.md](https://github.com/terryhy520/bilingual/blob/main/ai/2022/how-artificial-intelligence-ai-transforms-mobile-technology.md)   
 译者：[YelloMeta](https://github.com/terryhy520)
 
 # [译]人工智能 (AI) 如何改变移动技术？
